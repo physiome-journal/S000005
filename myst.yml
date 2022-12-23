@@ -1,0 +1,57 @@
+version: 1
+project:
+  title: >-
+    Incorporation of sarcolemmal calcium transporters into the Shorten et al.
+    (2007) model of skeletal muscle: equations, coding and stability
+  authors:
+    - name: Penelope J. Noble
+      affiliations:
+        - >-
+          Department of Physiology, Anatomy & Genetics, University of Oxford,
+          United Kingdom
+    - name: Alan Garny
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: Paul R. Shorten
+      affiliations:
+        - AgResearch, Ruakura Research Centre, New Zealand
+    - name: Kazuyo Tasaki
+      affiliations:
+        - >-
+          Department of Physiology, Anatomy & Genetics, University of Oxford,
+          United Kingdom
+    - name: Nima Afshar
+      affiliations:
+        - Auckland Bioengineering Institute, University of Auckland, New Zealand
+    - name: Denis Noble
+      affiliations:
+        - >-
+          Department of Physiology, Anatomy & Genetics, University of Oxford,
+          United Kingdom
+      corresponding: true
+      email: denis.noble@dpag.ox.ac.uk
+  keywords:
+    - Skeletal muscle model
+    - L-type calcium channel
+    - sodium-calcium exchange
+    - Ca2+ efflux
+    - potassium
+  open_access: true
+  license: CC-BY-4.0
+site:
+  projects:
+    - slug: S000005
+      path: .
+  nav: []
+  actions:
+    - title: paper
+      url: Noble2020PhysiomeS000005.pdf
+      static: true
+    - title: omex
+      url: Noble2020PhysiomeS000005.omex
+      static: true
+    - title: primary
+      url: https://doi.org/unknown
+  title: >-
+    Incorporation of sarcolemmal calcium transporters into the Shorten et al.
+    (2007) model of skeletal muscle: equations, coding and stability
