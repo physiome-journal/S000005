@@ -5,14 +5,17 @@ project:
     (2007) model of skeletal muscle: equations, coding and stability
   authors:
     - name: Penelope J. Noble
+      orcid: 0000-0002-1029-7683
       affiliations:
         - >-
           Department of Physiology, Anatomy & Genetics, University of Oxford,
           United Kingdom
     - name: Alan Garny
+      orcid: 0000-0001-7606-5888
       affiliations:
         - Auckland Bioengineering Institute, University of Auckland, New Zealand
     - name: Paul R. Shorten
+      orcid: 0000-0001-5938-8837
       affiliations:
         - AgResearch, Ruakura Research Centre, New Zealand
     - name: Kazuyo Tasaki
@@ -21,9 +24,11 @@ project:
           Department of Physiology, Anatomy & Genetics, University of Oxford,
           United Kingdom
     - name: Nima Afshar
+      orcid: 0000-0002-6671-6920
       affiliations:
         - Auckland Bioengineering Institute, University of Auckland, New Zealand
     - name: Denis Noble
+      orcid: 0000-0002-3013-3694
       affiliations:
         - >-
           Department of Physiology, Anatomy & Genetics, University of Oxford,
@@ -38,6 +43,9 @@ project:
     - potassium
   open_access: true
   license: CC-BY-4.0
+  doi: 10.36903/physiome.12885590
+  date: 2020/08/28
+  subject: Retrospective
 site:
   projects:
     - slug: S000005
@@ -51,7 +59,7 @@ site:
       url: Noble2020PhysiomeS000005.omex
       static: true
     - title: primary
-      url: https://doi.org/unknown
+      url: https://doi.org/10.1007/s10974-007-9125-6
   title: >-
     Incorporation of sarcolemmal calcium transporters into the Shorten et al.
     (2007) model of skeletal muscle: equations, coding and stability
