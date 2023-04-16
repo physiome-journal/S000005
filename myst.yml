@@ -64,6 +64,9 @@ project:
   doi: 10.36903/physiome.12885590
   date: 2020/08/28
   subject: Retrospective
+  numbering:
+    heading_2: true
+    heading_3: true
 site:
   projects:
     - slug: S000005
