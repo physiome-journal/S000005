@@ -3,6 +3,10 @@ project:
   title: >-
     Incorporation of sarcolemmal calcium transporters into the Shorten et al.
     (2007) model of skeletal muscle: equations, coding and stability
+  description: >-
+    We describe a major development of the Shorten et al. (2007) model of
+    skeletal muscle electrophysiology, biochemistry and mechanics.
+  thumbnail: thumbnail.png
   authors:
     - name: Penelope J. Noble
       orcid: 0000-0002-1029-7683
