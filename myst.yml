@@ -61,7 +61,7 @@ project:
     - Skeletal muscle model
     - L-type calcium channel
     - sodium-calcium exchange
-    - Ca2+ efflux
+    - Ca²⁺ efflux
     - potassium
   open_access: true
   license: CC-BY-4.0
