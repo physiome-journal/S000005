@@ -72,10 +72,9 @@ project:
     heading_2: true
     heading_3: true
 site:
-  projects:
-    - slug: S000005
-      path: .
-  nav: []
+  title: >-
+    Incorporation of sarcolemmal calcium transporters into the Shorten et al.
+    (2007) model of skeletal muscle: equations, coding and stability
   actions:
     - title: paper
       url: Noble2020PhysiomeS000005.pdf
@@ -85,6 +84,5 @@ site:
       static: true
     - title: primary
       url: https://doi.org/10.1007/s10974-007-9125-6
-  title: >-
-    Incorporation of sarcolemmal calcium transporters into the Shorten et al.
-    (2007) model of skeletal muscle: equations, coding and stability
+  domains:
+    - physiome-S000005.curve.space
